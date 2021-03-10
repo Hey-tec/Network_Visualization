@@ -1,0 +1,22 @@
+[
+    {"countryName": "United States", "date": "20190101", "count": 16806},
+    {"countryName": "Brazil", "date": "20190101", "count": 5866},
+    {"countryName": "Russia", "date": "20190101", "count": 4955},
+    {"countryName": "Poland", "date": "20190101", "count": 2036},
+    {"countryName": "Germany", "date": "20190101", "count": 1828},
+    {"countryName": "United Kingdom", "date": "20190101", "count": 1797},
+    {"countryName": "Ukraine", "date": "20190101", "count": 1697},
+    {"countryName": "India", "date": "20190101", "count": 1610},
+    {"countryName": "Australia", "date": "20190101", "count": 1477},
+    {"countryName": "Canada", "date": "20190101", "count": 1229},
+    {"countryName": "China", "date": "20190101", "count": 1224},
+    {"countryName": "France", "date": "20190101", "count": 1078},
+    {"countryName": "Indonesia", "date": "20190101", "count": 1047},
+    {"countryName": "Romania", "date": "20190101", "count": 1034},
+    {"countryName": "Netherlands", "date": "20190101", "count": 864},
+    {"countryName": "Italy", "date": "20190101", "count": 858},
+    {"countryName": "Spain", "date": "20190101", "count": 768},
+    {"countryName": "Korea", "date": "20190101", "count": 747},
+    {"countryName": "Argentina", "date": "20190101", "count": 737},
+    {"countryName": "Switzerland", "date": "20190101", "count": 633}
+]

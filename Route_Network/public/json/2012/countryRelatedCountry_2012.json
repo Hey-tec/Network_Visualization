@@ -1,0 +1,1019 @@
+[
+    {
+        "country": "Denmark",
+        "relatedCountry": [
+            "Denmark",
+            "Denmark",
+            "Germany",
+            "Switzerland",
+            "United Kingdom",
+            "Japan",
+            "Australia",
+            "Japan",
+            "Slovenia",
+            "Germany",
+            "United States",
+            "Poland",
+            "United States",
+            "Netherlands",
+            "Austria",
+            "France",
+            "Switzerland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "country": "Slovenia",
+        "relatedCountry": [
+            "Austria",
+            "United Arab Emirates",
+            "United States",
+            "Canada",
+            "Germany",
+            "Slovenia",
+            "Slovenia",
+            "Denmark",
+            "Netherlands",
+            "United Kingdom",
+            "Japan",
+            "Netherlands",
+            "Egypt"
+        ]
+    },
+    {
+        "country": "Austria",
+        "relatedCountry": [
+            "Slovenia",
+            "Egypt",
+            "India",
+            "United Kingdom",
+            "Romania",
+            "United Arab Emirates",
+            "France",
+            "Japan",
+            "Spain",
+            "Finland",
+            "Finland",
+            "Portugal",
+            "United States",
+            "Ukraine",
+            "Sweden",
+            "Peru",
+            "Netherlands",
+            "Turkey",
+            "Austria",
+            "Austria",
+            "Germany",
+            "Switzerland",
+            "United Kingdom",
+            "Russia",
+            "Thailand",
+            "Italy",
+            "Australia",
+            "Brazil",
+            "United States",
+            "Bulgaria",
+            "Germany",
+            "Canada",
+            "Malaysia",
+            "Denmark",
+            "Japan",
+            "Poland",
+            "Netherlands"
+        ]
+    },
+    {
+        "country": "France",
+        "relatedCountry": [
+            "Netherlands",
+            "Germany",
+            "Switzerland",
+            "Egypt",
+            "Canada",
+            "Mexico",
+            "United Kingdom",
+            "Austria",
+            "United Arab Emirates",
+            "Japan",
+            "Russia",
+            "Poland",
+            "United States",
+            "India",
+            "Spain",
+            "Romania",
+            "Norway",
+            "Germany",
+            "South Africa",
+            "Portugal",
+            "United States",
+            "China",
+            "Netherlands",
+            "France",
+            "France",
+            "Canada",
+            "Spain",
+            "Egypt",
+            "Switzerland",
+            "United Kingdom",
+            "Russia",
+            "Denmark",
+            "Belgium",
+            "Belgium"
+        ]
+    },
+    {
+        "country": "Netherlands",
+        "relatedCountry": [
+            "France",
+            "Greece",
+            "Spain",
+            "Egypt",
+            "Switzerland",
+            "United Kingdom",
+            "Russia",
+            "United Kingdom",
+            "United Arab Emirates",
+            "Brazil",
+            "Japan",
+            "Russia",
+            "Australia",
+            "Germany",
+            "Canada",
+            "Lithuania",
+            "Austria",
+            "Germany",
+            "Finland",
+            "Japan",
+            "Slovenia",
+            "India",
+            "Singapore",
+            "United States",
+            "Brazil",
+            "Romania",
+            "United Arab Emirates",
+            "Finland",
+            "France",
+            "Canada",
+            "Slovenia",
+            "United States",
+            "Denmark",
+            "China",
+            "Sweden",
+            "Peru",
+            "Netherlands",
+            "Netherlands",
+            "Poland",
+            "Austria",
+            "Switzerland",
+            "Egypt",
+            "Uruguay"
+        ]
+    },
+    {
+        "country": "Germany",
+        "relatedCountry": [
+            "France",
+            "Canada",
+            "Canada",
+            "Denmark",
+            "Belgium",
+            "Netherlands",
+            "Greece",
+            "South Africa",
+            "Poland",
+            "Switzerland",
+            "Egypt",
+            "Uruguay",
+            "United States",
+            "Poland",
+            "United Kingdom",
+            "Slovenia",
+            "India",
+            "Singapore",
+            "United Arab Emirates",
+            "Sweden",
+            "Japan",
+            "Russia",
+            "Netherlands",
+            "Finland",
+            "Austria",
+            "Romania",
+            "United Arab Emirates",
+            "Italy",
+            "France",
+            "Greece",
+            "Spain",
+            "Finland",
+            "United Kingdom",
+            "Russia",
+            "Portugal",
+            "Brazil",
+            "Denmark",
+            "Spain",
+            "Austria",
+            "Norway",
+            "China",
+            "Belgium",
+            "Germany",
+            "Germany",
+            "Peru",
+            "Malaysia",
+            "Egypt",
+            "Switzerland",
+            "United States",
+            "Italy",
+            "Romania",
+            "Japan"
+        ]
+    },
+    {
+        "country": "Greece",
+        "relatedCountry": [
+            "Netherlands",
+            "Greece",
+            "Greece",
+            "United Kingdom",
+            "Russia",
+            "Switzerland",
+            "Egypt",
+            "United Arab Emirates",
+            "Germany",
+            "United States",
+            "Canada",
+            "Germany",
+            "India",
+            "United States"
+        ]
+    },
+    {
+        "country": "United States",
+        "relatedCountry": [
+            "Australia",
+            "Italy",
+            "Ireland",
+            "South Africa",
+            "Lithuania",
+            "Japan",
+            "Poland",
+            "India",
+            "Israel",
+            "Spain",
+            "Slovenia",
+            "India",
+            "Singapore",
+            "Austria",
+            "Estonia",
+            "Norway",
+            "Israel",
+            "Chile",
+            "Germany",
+            "United Arab Emirates",
+            "Romania",
+            "Finland",
+            "China",
+            "France",
+            "Greece",
+            "Spain",
+            "Finland",
+            "Portugal",
+            "United States",
+            "United States",
+            "Ukraine",
+            "Brazil",
+            "Romania",
+            "Singapore",
+            "Argentina",
+            "Slovakia",
+            "China",
+            "Belgium",
+            "Sweden",
+            "China",
+            "France",
+            "Peru",
+            "Canada",
+            "Netherlands",
+            "Turkey",
+            "Mali",
+            "Austria",
+            "Egypt",
+            "Switzerland",
+            "Denmark",
+            "United Kingdom",
+            "Russia",
+            "Thailand",
+            "Italy",
+            "Australia",
+            "Denmark",
+            "Rwanda",
+            "Netherlands",
+            "Greece",
+            "Brazil",
+            "Norway",
+            "Poland",
+            "Switzerland",
+            "Uruguay",
+            "Bulgaria",
+            "Mexico",
+            "Germany",
+            "United Kingdom",
+            "Argentina",
+            "Canada",
+            "Hungary",
+            "United Arab Emirates",
+            "Japan",
+            "Uruguay",
+            "Russia",
+            "Mexico",
+            "Philippines",
+            "Malaysia"
+        ]
+    },
+    {
+        "country": "Australia",
+        "relatedCountry": [
+            "United States",
+            "China",
+            "Uruguay",
+            "Netherlands",
+            "United Kingdom",
+            "Russia",
+            "Denmark",
+            "Australia",
+            "Australia",
+            "Sweden",
+            "Austria",
+            "United Arab Emirates",
+            "United States",
+            "Turkey"
+        ]
+    },
+    {
+        "country": "Sweden",
+        "relatedCountry": [
+            "United Kingdom",
+            "Sweden",
+            "Sweden",
+            "Austria",
+            "Norway",
+            "Germany",
+            "Australia",
+            "United States",
+            "Netherlands",
+            "Switzerland"
+        ]
+    },
+    {
+        "country": "United Kingdom",
+        "relatedCountry": [
+            "Sweden",
+            "Netherlands",
+            "Greece",
+            "Poland",
+            "Netherlands",
+            "Turkey",
+            "Switzerland",
+            "Egypt",
+            "Austria",
+            "South Africa",
+            "Belarus",
+            "Mexico",
+            "France",
+            "Spain",
+            "Switzerland",
+            "United Kingdom",
+            "United Kingdom",
+            "Russia",
+            "Italy",
+            "Australia",
+            "Denmark",
+            "United Arab Emirates",
+            "Japan",
+            "Russia",
+            "Brazil",
+            "Norway",
+            "Italy",
+            "Germany",
+            "Canada",
+            "China",
+            "Philippines",
+            "Ukraine",
+            "Austria",
+            "Ireland",
+            "Germany",
+            "Lithuania",
+            "Japan",
+            "Poland",
+            "Slovenia",
+            "India",
+            "Singapore",
+            "United States",
+            "Singapore",
+            "Finland",
+            "France",
+            "Canada",
+            "South Africa",
+            "Puerto Rico",
+            "United States",
+            "Ukraine",
+            "Denmark",
+            "China"
+        ]
+    },
+    {
+        "country": "Canada",
+        "relatedCountry": [
+            "Germany",
+            "France",
+            "Canada",
+            "Canada",
+            "Germany",
+            "Philippines",
+            "Netherlands",
+            "Lithuania",
+            "Poland",
+            "Slovenia",
+            "United Kingdom",
+            "Japan",
+            "Russia",
+            "Greece",
+            "South Africa",
+            "United States",
+            "Austria",
+            "Netherlands",
+            "France",
+            "United Kingdom",
+            "United States",
+            "Brazil"
+        ]
+    },
+    {
+        "country": "Egypt",
+        "relatedCountry": [
+            "Austria",
+            "United Arab Emirates",
+            "Romania",
+            "Netherlands",
+            "France",
+            "Greece",
+            "Switzerland",
+            "Switzerland",
+            "Egypt",
+            "Egypt",
+            "United Kingdom",
+            "United Arab Emirates",
+            "Germany",
+            "Italy",
+            "Norway",
+            "Finland",
+            "Argentina",
+            "United States",
+            "Romania",
+            "Argentina",
+            "Norway",
+            "France",
+            "Germany",
+            "Slovenia",
+            "Netherlands"
+        ]
+    },
+    {
+        "country": "Romania",
+        "relatedCountry": [
+            "Switzerland",
+            "Egypt",
+            "Austria",
+            "United States",
+            "Romania",
+            "Romania",
+            "Portugal",
+            "France",
+            "United States",
+            "Germany",
+            "Netherlands",
+            "Egypt",
+            "Germany"
+        ]
+    },
+    {
+        "country": "Switzerland",
+        "relatedCountry": [
+            "Romania",
+            "Netherlands",
+            "France",
+            "Greece",
+            "Spain",
+            "Egypt",
+            "Switzerland",
+            "Switzerland",
+            "Egypt",
+            "United Kingdom",
+            "South Africa",
+            "Russia",
+            "Denmark",
+            "United Kingdom",
+            "United Arab Emirates",
+            "Japan",
+            "Germany",
+            "Italy",
+            "Italy",
+            "Austria",
+            "Norway",
+            "United States",
+            "France",
+            "United States",
+            "Germany",
+            "Denmark",
+            "Sweden",
+            "Netherlands"
+        ]
+    },
+    {
+        "country": "United Arab Emirates",
+        "relatedCountry": [
+            "Egypt",
+            "Slovenia",
+            "Netherlands",
+            "Austria",
+            "United Arab Emirates",
+            "United Arab Emirates",
+            "France",
+            "Greece",
+            "Spain",
+            "Finland",
+            "Egypt",
+            "Switzerland",
+            "Finland",
+            "United Kingdom",
+            "United States",
+            "Germany",
+            "Norway",
+            "Germany",
+            "Italy",
+            "Australia",
+            "Norway",
+            "Netherlands",
+            "Mexico",
+            "United States",
+            "Poland"
+        ]
+    },
+    {
+        "country": "Spain",
+        "relatedCountry": [
+            "Netherlands",
+            "Switzerland",
+            "United Kingdom",
+            "Austria",
+            "United States",
+            "United Arab Emirates",
+            "United States",
+            "Brazil",
+            "France",
+            "Singapore",
+            "Spain",
+            "Spain",
+            "Germany",
+            "Germany",
+            "France",
+            "Lithuania",
+            "India"
+        ]
+    },
+    {
+        "country": "India",
+        "relatedCountry": [
+            "Austria",
+            "United States",
+            "United States",
+            "France",
+            "Germany",
+            "Netherlands",
+            "Greece",
+            "United Kingdom",
+            "India",
+            "India",
+            "Spain"
+        ]
+    },
+    {
+        "country": "Italy",
+        "relatedCountry": [
+            "United States",
+            "Belgium",
+            "United Kingdom",
+            "Switzerland",
+            "United Kingdom",
+            "Russia",
+            "Italy",
+            "Italy",
+            "Switzerland",
+            "Egypt",
+            "Germany",
+            "Austria",
+            "United Arab Emirates",
+            "Philippines",
+            "United States",
+            "Brazil",
+            "Germany",
+            "Finland"
+        ]
+    },
+    {
+        "country": "Ireland",
+        "relatedCountry": [
+            "United States",
+            "Ireland",
+            "Ireland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "country": "Russia",
+        "relatedCountry": [
+            "Netherlands",
+            "Greece",
+            "Switzerland",
+            "Netherlands",
+            "United Kingdom",
+            "France",
+            "United Kingdom",
+            "Japan",
+            "Russia",
+            "Russia",
+            "Australia",
+            "Ukraine",
+            "Italy",
+            "Brazil",
+            "Germany",
+            "Peru",
+            "Canada",
+            "Austria",
+            "Germany",
+            "Japan",
+            "United States",
+            "Argentina",
+            "Argentina",
+            "France",
+            "United States"
+        ]
+    },
+    {
+        "country": "Poland",
+        "relatedCountry": [
+            "United Kingdom",
+            "Rwanda",
+            "United States",
+            "Brazil",
+            "Germany",
+            "France",
+            "Canada",
+            "Germany",
+            "Poland",
+            "Poland",
+            "United Kingdom",
+            "Denmark",
+            "South Africa",
+            "United States",
+            "Austria",
+            "Netherlands",
+            "United Arab Emirates"
+        ]
+    },
+    {
+        "country": "South Africa",
+        "relatedCountry": [
+            "United States",
+            "Switzerland",
+            "United Kingdom",
+            "Germany",
+            "France",
+            "Canada",
+            "Poland",
+            "South Africa",
+            "South Africa",
+            "United Kingdom",
+            "Finland"
+        ]
+    },
+    {
+        "country": "Turkey",
+        "relatedCountry": [
+            "United Kingdom",
+            "Austria",
+            "Turkey",
+            "Turkey",
+            "United States",
+            "Australia"
+        ]
+    },
+    {
+        "country": "Mexico",
+        "relatedCountry": [
+            "France",
+            "United Kingdom",
+            "United Arab Emirates",
+            "United States",
+            "United States"
+        ]
+    },
+    {
+        "country": "Belarus",
+        "relatedCountry": [
+            "United Kingdom"
+        ]
+    },
+    {
+        "country": "China",
+        "relatedCountry": [
+            "Australia",
+            "United States",
+            "United Kingdom",
+            "Finland",
+            "China",
+            "China",
+            "United States",
+            "United States",
+            "Singapore",
+            "France",
+            "Germany",
+            "Netherlands",
+            "United Kingdom"
+        ]
+    },
+    {
+        "country": "Philippines",
+        "relatedCountry": [
+            "Canada",
+            "United Kingdom",
+            "Italy",
+            "United States"
+        ]
+    },
+    {
+        "country": "Uruguay",
+        "relatedCountry": [
+            "Australia",
+            "Germany",
+            "Singapore",
+            "United States",
+            "United States",
+            "Netherlands"
+        ]
+    },
+    {
+        "country": "Hungary",
+        "relatedCountry": [
+            "Hungary",
+            "Hungary",
+            "United States"
+        ]
+    },
+    {
+        "country": "Brazil",
+        "relatedCountry": [
+            "Netherlands",
+            "Poland",
+            "United Kingdom",
+            "Russia",
+            "Spain",
+            "United States",
+            "Germany",
+            "Austria",
+            "Netherlands",
+            "Italy",
+            "United States",
+            "Brazil",
+            "Brazil",
+            "Canada"
+        ]
+    },
+    {
+        "country": "Rwanda",
+        "relatedCountry": [
+            "Poland",
+            "United States"
+        ]
+    },
+    {
+        "country": "Japan",
+        "relatedCountry": [
+            "Netherlands",
+            "United States",
+            "Austria",
+            "France",
+            "Switzerland",
+            "United Kingdom",
+            "Russia",
+            "Denmark",
+            "Norway",
+            "Denmark",
+            "Germany",
+            "Canada",
+            "Netherlands",
+            "United Kingdom",
+            "Japan",
+            "Japan",
+            "Russia",
+            "Slovenia",
+            "Austria",
+            "United States",
+            "Germany"
+        ]
+    },
+    {
+        "country": "Lithuania",
+        "relatedCountry": [
+            "United States",
+            "Canada",
+            "Netherlands",
+            "United Kingdom",
+            "Spain",
+            "Lithuania",
+            "Lithuania"
+        ]
+    },
+    {
+        "country": "Belgium",
+        "relatedCountry": [
+            "Italy",
+            "Belgium",
+            "Belgium",
+            "Germany",
+            "Finland",
+            "United States",
+            "Germany",
+            "France",
+            "France"
+        ]
+    },
+    {
+        "country": "Israel",
+        "relatedCountry": [
+            "United States",
+            "United States",
+            "Israel",
+            "Israel"
+        ]
+    },
+    {
+        "country": "Finland",
+        "relatedCountry": [
+            "Austria",
+            "Austria",
+            "United Arab Emirates",
+            "United Arab Emirates",
+            "Finland",
+            "Finland",
+            "United States",
+            "United States",
+            "China",
+            "Belgium",
+            "Germany",
+            "Netherlands",
+            "Germany",
+            "Egypt",
+            "Netherlands",
+            "United Kingdom",
+            "South Africa",
+            "Italy"
+        ]
+    },
+    {
+        "country": "Portugal",
+        "relatedCountry": [
+            "Austria",
+            "United States",
+            "Romania",
+            "France",
+            "Germany"
+        ]
+    },
+    {
+        "country": "Singapore",
+        "relatedCountry": [
+            "United States",
+            "Singapore",
+            "Singapore",
+            "Germany",
+            "Spain",
+            "United States",
+            "Netherlands",
+            "China",
+            "Uruguay",
+            "United Kingdom",
+            "United Kingdom"
+        ]
+    },
+    {
+        "country": "Norway",
+        "relatedCountry": [
+            "United Kingdom",
+            "United States",
+            "Japan",
+            "Sweden",
+            "United Arab Emirates",
+            "France",
+            "Switzerland",
+            "Egypt",
+            "United Arab Emirates",
+            "Germany",
+            "United States",
+            "Egypt",
+            "Norway",
+            "Norway"
+        ]
+    },
+    {
+        "country": "Ukraine",
+        "relatedCountry": [
+            "Austria",
+            "Russia",
+            "United Kingdom",
+            "United States",
+            "Ukraine",
+            "Ukraine",
+            "United Kingdom"
+        ]
+    },
+    {
+        "country": "Estonia",
+        "relatedCountry": [
+            "United States"
+        ]
+    },
+    {
+        "country": "Chile",
+        "relatedCountry": [
+            "United States"
+        ]
+    },
+    {
+        "country": "Argentina",
+        "relatedCountry": [
+            "Argentina",
+            "Argentina",
+            "United States",
+            "Egypt",
+            "Egypt",
+            "Russia",
+            "Russia",
+            "United States"
+        ]
+    },
+    {
+        "country": "Peru",
+        "relatedCountry": [
+            "Austria",
+            "Russia",
+            "United States",
+            "Germany",
+            "Peru",
+            "Peru",
+            "Netherlands"
+        ]
+    },
+    {
+        "country": "Slovakia",
+        "relatedCountry": [
+            "United States"
+        ]
+    },
+    {
+        "country": "Thailand",
+        "relatedCountry": [
+            "Austria",
+            "United States",
+            "Thailand",
+            "Thailand"
+        ]
+    },
+    {
+        "country": "Mali",
+        "relatedCountry": [
+            "United States"
+        ]
+    },
+    {
+        "country": "Bulgaria",
+        "relatedCountry": [
+            "Austria",
+            "United States",
+            "Bulgaria",
+            "Bulgaria"
+        ]
+    },
+    {
+        "country": "Malaysia",
+        "relatedCountry": [
+            "Austria",
+            "Germany",
+            "United States"
+        ]
+    },
+    {
+        "country": "Puerto Rico",
+        "relatedCountry": [
+            "United Kingdom"
+        ]
+    }
+]
